@@ -472,25 +472,25 @@ header {
 }
 
 .menu .logo-black {
-	background: url("../images/logo-black.svg") no-repeat;
+	background: url("../images/tn-icon-brilliant.svg") no-repeat;
 	left: -1.55em;
 }
 
 @media (max-width: 47.9em) {
 	 .menu .logo-black {
-		background: url("../images/logo-small-black.svg") no-repeat;
+		background: url("../images/tn-icon-brilliant.svg") no-repeat;
 		left: -1em;
 	}
 }
 
 .menu .logo-white {
-	background: url("../images/logo-white.svg") no-repeat;
+	background: url("../images/tn-icon-brilliant.svg") no-repeat;
 	left: 0;
 }
 
 @media (max-width: 47.9em) {
 	.menu .logo-white {
-		background: url("../images/logo-small-white.svg") no-repeat;
+		background: url("../images/tn-icon-brilliant.svg") no-repeat;
 		left: .2em;
 	}
 }
