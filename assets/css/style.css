@@ -1426,3 +1426,7 @@ footer .right p a {
 footer .right p a:hover {
 	color: rgba(17, 17, 17, 1);
 }
+
+promo {
+text-align: center;
+}
