@@ -212,6 +212,10 @@ img {
 	margin: 0 auto;
 }
 
+.textcenter {
+	text-align: center;
+}
+
 /* Media Queries */
 @-ms-viewport {
 	width: device-width;
@@ -1427,6 +1431,4 @@ footer .right p a:hover {
 	color: rgba(17, 17, 17, 1);
 }
 
-promo {
-text-align: center;
-}
+
