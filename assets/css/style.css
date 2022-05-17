@@ -5,6 +5,43 @@
 	Version: 1.0
 	================================================ */
 
+
+
+@font-face {
+    font-family: 'Lato-Black';
+         url('fonts/Lato-Black.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Bold';
+         url('fonts/Lato-Bold.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Regular';
+         url('fonts/Lato-Regular.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Light';
+         url('fonts/Lato-Light.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Thin';
+         url('fonts/Lato-Thin.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* Import fonts and icons */
 @import url("font-awesome.min.css");
 @import url("responsive.css");
