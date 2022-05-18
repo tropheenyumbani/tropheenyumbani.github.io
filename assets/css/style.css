@@ -43,6 +43,7 @@
 }
 
 /* Import fonts and icons */
+@import url("https://use.typekit.net/hjv8kob.css");
 @import url("font-awesome.min.css");
 @import url("responsive.css");
 @import url("https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600");
@@ -53,8 +54,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font-family: lato, Helvetica, sans-serif;
-	/* font: inherit; */
+	font: inherit;
 	vertical-align: baseline;
 }
 
