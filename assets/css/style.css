@@ -216,6 +216,10 @@ img {
 	margin: 0 auto;
 }
 
+.sizefix {
+	font-size: 24px;
+}
+
 .textcenter {
 	text-align: center;
 	font-size: 24px;
