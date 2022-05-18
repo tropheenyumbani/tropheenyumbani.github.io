@@ -53,7 +53,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font-family: "Lato-Regular", Helvetica, sans-serif;
+	font-family: lato, Helvetica, sans-serif;
 	font: inherit;
 	vertical-align: baseline;
 }
